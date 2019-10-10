@@ -1,0 +1,11 @@
+body {
+    background: rgb(81,71,111);
+    background: linear-gradient(90deg, rgba(81,71,111,1) 0%, rgba(17,89,129,1) 50%, rgba(21,110,77,1) 100%);
+}
+.card {
+    width: 800px; /* wsl aanpassen */
+    margin: 0 auto;
+    float: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
